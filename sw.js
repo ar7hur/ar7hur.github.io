@@ -48,28 +48,28 @@ self.__precacheManifest = [
     "revision": "de5e22b15cf20cb0d586a036d714ee3f"
   },
   {
-    "url": "certificate.502eb415.js",
-    "revision": "c3262e7157ef623305b89aede23fa5dc"
+    "url": "certificate.45716b13.css",
+    "revision": "f6281d99efc1f27b7a03c7c617974309"
   },
   {
     "url": "certificate.84dda806.pdf",
     "revision": "343ac8bb3542a6578f2a4cbaf0f99679"
   },
   {
-    "url": "certificate.b7dcfaaf.css",
-    "revision": "de5506d7c1617c3893421a3c2d405958"
+    "url": "certificate.da2d46a0.js",
+    "revision": "8e596b39e17689c518f89605c441b1ab"
   },
   {
-    "url": "confidentialite.969a6e7c.js",
-    "revision": "d8cefe0817430a6992ba7a154f30644a"
+    "url": "confidentialite.45716b13.css",
+    "revision": "59f27576f295809525386543e0aef440"
   },
   {
-    "url": "confidentialite.b7dcfaaf.css",
-    "revision": "b26c6361c14c87d3630b478d597854d1"
+    "url": "confidentialite.4fb11936.js",
+    "revision": "f361c74d89163ea271ba82e816dc250f"
   },
   {
     "url": "confidentialite.html",
-    "revision": "de2292744f24ceed8cd5085a8be884e0"
+    "revision": "b8b9128050ea2041e6a43836180bac88"
   },
   {
     "url": "favicon-16x16.a4687270.png",
@@ -81,7 +81,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4ad8ad017db84e68076b92211fb5e962"
+    "revision": "39843d3f75959a17b8bf9734c920230c"
   },
   {
     "url": "logo_dnum.02e567b8.svg",
@@ -113,9 +113,9 @@ self.__precacheManifest = [
   },
   {
     "url": "./",
-    "revision": "222de4c3dd2db66637f8fa11dea8b749"
+    "revision": "11fcf936ae93f28af02530c2af762cb3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/deplacement-covid-19/index.html"));
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/index.html"));
